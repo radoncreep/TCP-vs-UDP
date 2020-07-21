@@ -10,7 +10,3 @@ const server = net.createServer(socket => {
 
 server.listen(8080);
 
-// 169.254.185.124
-
-// Putting a breakpoint means when information is sent to the server
-// you can trap and stop the code at that point
