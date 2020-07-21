@@ -1,0 +1,20 @@
+{
+  "name": "TCPUDP",
+  "version": "1.0.0",
+  "description": "// Creating server side connection to client using TCP/UDP",
+  "main": "tcp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radoncreep/TCP-vs-UDP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radoncreep/TCP-vs-UDP/issues"
+  },
+  "homepage": "https://github.com/radoncreep/TCP-vs-UDP#readme"
+}
